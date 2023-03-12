@@ -54,7 +54,14 @@
 </body>
 
  <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg">
-<a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg"/></a>
+<a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://user-images.githubusercontent.com/119135536/224574377-dedf1845-5a43-4392-8cb5-36b4ad0c25e9.svg"/></a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/119135536/224574478-ce32875b-18bd-4dbd-83e9-a427aaf2b28f.svg" alt="Discord" style="vertical-align:top margin:6px 4px">
+  </a>
+ http://www.w3.org/2000/svg
+ ![discord](https://user-images.githubusercontent.com/119135536/224574377-dedf1845-5a43-4392-8cb5-36b4ad0c25e9.svg)
+![discord-communication-interaction-message-network-svgrepo-com](https://user-images.githubusercontent.com/119135536/224574478-ce32875b-18bd-4dbd-83e9-a427aaf2b28f.svg)
+
 
  <a href="#">
     <img src="" alt="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px">

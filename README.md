@@ -61,4 +61,4 @@
 
 ![[discord Badge](href="https://discord.gg/Arthe#7178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arthe#7178" height="30" width="40")](https://img.shields.io/badge/Discord-005571?style=for-the-badge&logo=discord&logoColor=ffffff)   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/remy_ftz)
 
-![visitors](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC.git/badge?page_id=LobArthe&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC&left_color=green&right_color=lightgrey)

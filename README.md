@@ -1,4 +1,4 @@
-# LobArthe 240FPS
+# 240FPS GSYNC-VRR
 Hi ! I share my configs from several github as well as my optimization , thanks !
 
 

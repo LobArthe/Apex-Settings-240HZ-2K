@@ -25,7 +25,7 @@
    
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
-# ISLC-Intelligent standby list cleaner
+## ISLC-Intelligent standby list cleaner
    
           
    <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>

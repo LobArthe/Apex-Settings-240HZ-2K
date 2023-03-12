@@ -15,6 +15,3 @@ https://www.revi.cc/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=blue&right_color=red)
                 
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/[steam].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/[ICON SLUG].svg" />

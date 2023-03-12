@@ -7,14 +7,16 @@
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div align="center">I share my configs from several github as well as my optimization,
-   
-240FPS GSYNC-VRR
+ 
+ - [Categories](# Gaming Os)
+ [gaming os 🤖](#gaming os)
 
-# Gaming Os
+
+## GamingOs
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
 
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
-   
+ 
    https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641-8557-7d70087a5215.mp4
 
 
@@ -23,7 +25,7 @@
    
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
-# Steam
+# ISLC-Intelligent standby list cleaner
    
           
    <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -52,11 +54,3 @@
 </div>
     </center>
 </body>
-
-
- <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
-
-
- <a href="#">
-    <img src="" alt="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" style="vertical-align:top margin:6px 4px">
-  </a>  

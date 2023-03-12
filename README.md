@@ -34,7 +34,7 @@
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
- <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://img.shields.io/badge/Remy_ftz%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"><a href="https://discord.gg/Arthe#7178" target="_blank"><img src="https://img.shields.io/badge/-Arthe%237178-informational?&style=for-the-badge&logo=discord&logoColor=white"/><img alt="Steam" width="85" hight="200" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+ <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://img.shields.io/badge/Remy_ftz%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"><a href="https://discord.gg/Arthe#7178" target="_blank"><img src="https://img.shields.io/badge/-Arthe%237178-informational?&style=for-the-badge&logo=discord&logoColor=white" /></a><img alt="Steam" width="85" hight="200" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png"/></a> <a href="https://www.twitch.tv/arthe__"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </br>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC&left_color=green&right_color=lightgrey)

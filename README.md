@@ -8,8 +8,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div align="center">I share my configs from several github as well as my optimization,
  
- - [Categories](# Gaming Os)
- [gaming os 🤖](#gaming os)
+
 
 
 ## GamingOs

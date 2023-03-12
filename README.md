@@ -12,3 +12,7 @@ Hi ! I share my configs from several github as well as my optimization , thanks 
 First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
 
 https://www.revi.cc/
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
+

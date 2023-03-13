@@ -1,7 +1,7 @@
  <center>
 <h1 align="center"> <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
     
-   240FPS GSYNC-VRR </h1>
+   ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif) </h1>
 
 <body>
   <center>
@@ -11,22 +11,29 @@
 
 
 
+
 ## GamingOs
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
 
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
    https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641-8557-7d70087a5215.mp4
-
-
-   
- ![ReviOS](https://img.shields.io/badge/-Download-red?style=flat-square):arrow_down:
+ 
    
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
 ## ISLC-Intelligent standby list cleaner
    
-          
+>Move ISLC to "C:\Program Files" or somewhere safe and change value ' free memory is lower than : '
+ 
+| Ram | Size |
+| --- | --- |
+| `32 Go` | 16000 MB |
+| `16 Go` | 8000 MB |
+| `8 Go` | 4000 MB |
+   <img src="https://user-images.githubusercontent.com/119135536/224653098-c409ae0a-5d10-4bc4-b695-eec20ae80b3c.png" align="center" width="373.5px" height="208.5px">
+ 
+ 
    <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
 <img src="https://media.tenor.com/899h7460Lz8AAAAC/getting-ready-raymond-reddington.gif" align="right" width="373.5px" height="208.5px">

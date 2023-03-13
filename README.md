@@ -12,7 +12,9 @@
 
 
 
-## GamingOs
+## ![les-fenetres (2)](https://user-images.githubusercontent.com/119135536/224665433-e0706b00-7eb3-434f-a2ed-64aa25680cfe.png)  Custom Os
+
+
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
 
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
@@ -22,7 +24,7 @@
    
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
-## ISLC-Intelligent standby list cleaner
+## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) ISLC-Intelligent standby list cleaner
    
 >Move ISLC to "C:\Program Files" or somewhere safe and change value ' free memory is lower than : '
  
@@ -33,6 +35,14 @@
 | `8 Go` | 4000 MB |
    <img src="https://user-images.githubusercontent.com/119135536/224653098-c409ae0a-5d10-4bc4-b695-eec20ae80b3c.png" align="center" width="373.5px" height="208.5px">
  
+## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector
+  
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/revios/post-install&mode=dark&style=horizontal)](https://www.revi.cc/revios/post-install)
+ 
+ 
+ ![ReviOS](https://img.shields.io/badge/Nvidia-Inspector-success??style=social-square)
+ > Open Nvidia inspector , 'profiles' on the top left and write  apex legends, click on import profile(s) (watch gif) and select the apexlegends.nip folder which is in my github , and press 'apply changes' enjoy :white_check_mark:
+<img src="https://user-images.githubusercontent.com/119135536/224672194-c6906b35-53c4-4e39-8623-e8fac54f6e52.png" width="373.5px" height="300px">
  
    <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
@@ -53,7 +63,7 @@
 <div>
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+<img src="">
 </div>
 <hr>
 </div>

@@ -1,12 +1,13 @@
  <center>
-<h1 align="center"> <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+
+<h1 align="center">
     
    ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif) </h1>
 
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<div align="center">I share my configs from several github as well as my optimization,
+<div align="center">I share my configs from several github as well as my optimization,If you want screen settings or other, contact me section :)
  
 
 
@@ -55,10 +56,6 @@
  2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
  5. Add the command in launch options "-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg -exec autoexec.cfg -eac_launcher_settings SettingsDX12.json" (without the Quotation marks).
-
-
- 
- 
 
  
  

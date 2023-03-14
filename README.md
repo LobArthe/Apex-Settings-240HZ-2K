@@ -65,11 +65,15 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
  2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
  5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg -exec autoexec.cfg -eac_launcher_settings SettingsDX12.json``` (without the Quotation marks).
- # <p align="center">Videoconfig</p>
-
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Video-Config-blue??style=for-the-badge-square">
+</p>
+ 
 6. Press Win+R while you are on your desktop.
-7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
-8. Move [videoconfig.txt](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/videoconfig.txt) in it.
+ 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
+ 8. Move [videoconfig.txt](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/videoconfig.txt) in it.
+ 
 
 
  
@@ -94,9 +98,3 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
 <img src="https://media.tenor.com/899h7460Lz8AAAAC/getting-ready-raymond-reddington.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>

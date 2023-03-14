@@ -20,8 +20,17 @@
 
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
- https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641-8557-7d70087a5215.mp4
+
+https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641-8557-7d70087a5215.mp4
  
+ 
+ 
+ 
+ 
+ 
+
+         
+
    
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
@@ -55,9 +64,14 @@
 <b>1. [Download](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/files/10956659/Apex-Legends-Config-And-Tweaks.1.zip) and extract it.                                
  2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
- 5. Add the command in launch options "-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg -exec autoexec.cfg -eac_launcher_settings SettingsDX12.json" (without the Quotation marks).
+ 5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg -exec autoexec.cfg -eac_launcher_settings SettingsDX12.json``` (without the Quotation marks).
+ # <p align="center">Videoconfig</p>
 
- 
+6. Press Win+R while you are on your desktop.
+7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" (without the Quotation marks).
+8. Move [videoconfig.txt](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/videoconfig.txt) in it.
+
+
  
  
  
@@ -71,7 +85,7 @@
  <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"><a href="https://discord.gg/Arthe#7178" target="_blank"><img src="https://img.shields.io/badge/-Arthe%237178-informational?&style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg"/></a><a href="https://www.twitch.tv/arthe__"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/twitch.svg"/></a>
 </br>
     
- 
+
     
    </br> 
 </div>

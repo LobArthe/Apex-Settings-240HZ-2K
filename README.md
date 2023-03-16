@@ -105,3 +105,16 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 <div align="center">
 <img src="https://media.tenor.com/899h7460Lz8AAAAC/getting-ready-raymond-reddington.gif">
+
+ 
+ 
+ <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 ! ~ </h2>
+ </div>
+ 
+ ### Github
+ - [Kretz1xD](https://github.com/kretz1xD/Apex-Legends-Tweaks) - For best autoexec and videoconfig 
+ 
+  ### Discord
+ - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings
+ - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking (latency , he is very complete on everything )
+ - [ReviOS](https://discord.gg/962y4pU) - Best iso custom , install and play <3

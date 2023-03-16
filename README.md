@@ -113,6 +113,8 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
  
  ### Github
  - [Kretz1xD](https://github.com/kretz1xD/Apex-Legends-Tweaks) - For best autoexec and videoconfig 
+ - [GamingPcSetup](https://github.com/djdallmann/GamingPCSetup/)  optimizing your gaming PC (w10)
+ - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - performance and input lag optimization
  
   ### Discord
  - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings

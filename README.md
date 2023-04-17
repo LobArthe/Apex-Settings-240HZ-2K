@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
  
 ## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector
   
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/docs/install&mode=dark&style=horizontal)](https://www.revi.cc/docs/install)
+ [ReviOS Tweaks NVIDIA](https://revi.cc/docs/post-install#nvidia-control-panel-tweaks)
 
  ![ReviOS](https://img.shields.io/badge/Nvidia-Inspector-success??style=social-square)
  > Open Nvidia inspector , 'profiles' on the top left and write  apex legends, click on import profile(s) (watch gif) and select the apexlegends.nip folder which is in my github , and press 'apply changes' enjoy :white_check_mark:
@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
 <div align="center">
 <img src="https://media.tenor.com/899h7460Lz8AAAAC/getting-ready-raymond-reddington.gif">
 
- 
+
  
  <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 ! ~ </h2>
  </div>

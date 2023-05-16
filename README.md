@@ -1,7 +1,7 @@
  <center>
 
 <h1 align="center">
-![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif)
+[Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif)
  </h1>
 I will update without gsync-VRR with changes! thanks! pm discord if needed. Edit: May 16, 2023    
    

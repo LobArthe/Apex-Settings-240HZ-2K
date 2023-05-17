@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641
 <b>1. [Download](https://github.com/LobArthe/Apex-my-settings-240FPS-GSYNC-2K/files/11246157/Apex-my-settings-240FPS-GSYNC-2K-main.zip) and extract it.                                
  2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
- 5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg -exec autoexec.cfg -eac_launcher_settings SettingsDX12.json```
+ 5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg ```
   
 <p align="center">
     <img src="https://img.shields.io/badge/Video-Config-blue??style=for-the-badge-square">

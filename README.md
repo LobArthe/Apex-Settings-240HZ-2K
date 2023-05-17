@@ -7,10 +7,7 @@
 
 <body>
 
-
-I will update without gsync-VRR with changes! thanks! pm discord if needed. Edit: May 16, 2023    
    
-
 
 <body>
   <center>

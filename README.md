@@ -12,7 +12,7 @@
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<div align="center">I share my configs from several github as well as my optimization,If you want screen settings or other, contact me section :)
+<div align="center">Hi ! Im Arthe , im #1 Loba fr pc MNK , I share my configs from several github as well as my optimization,If you want screen settings or other, contact me section :)
  
 
 

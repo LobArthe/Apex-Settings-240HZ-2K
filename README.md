@@ -26,9 +26,10 @@
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
 
-https://user-images.githubusercontent.com/119135536/224560087-e43ea843-87a5-4641-8557-7d70087a5215.mp4
- 
- 
+
+https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4e3b-a904-cfcda49177c6
+
+
  
  
  

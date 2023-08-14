@@ -77,8 +77,8 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
 </p>
 
 
-<b>1. [Download](https://github.com/LobArthe/Apex-Settings-240HZ/files/11494085/Apex-my-settings-240HZ.zip) and extract it.                                
- 2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
+<b>1. [Download](https://github.com/LobArthe/Apex-Settings-240HZ/files/12336567/Apex-my-settings-240FPS-2K.zip) and extract it.                                
+ 2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-Settings-240HZ/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
  5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg ```
   

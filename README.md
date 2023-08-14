@@ -41,7 +41,8 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
 ## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) ISLC-Intelligent standby list cleaner
-   
+   ![image](https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e0d54515-7438-4e22-a4ba-6a4eb7f6ab51)
+
 >Move ISLC to "C:\Program Files" or somewhere safe and change value ' free memory is lower than : '
  
 | Ram | Size |
@@ -49,7 +50,6 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
 | `32 Go` | 16000 MB |
 | `16 Go` | 8000 MB |
 | `8 Go` | 4000 MB |
-   <img src="https://user-images.githubusercontent.com/119135536/224653098-c409ae0a-5d10-4bc4-b695-eec20ae80b3c.png" align="center" width="373.5px" height="208.5px">
  
 ## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector
   

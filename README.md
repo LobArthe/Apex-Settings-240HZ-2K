@@ -22,7 +22,9 @@
 
 
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
-
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
+>
+> 
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
 
@@ -33,12 +35,8 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
  
  
  
- 
-
          
 
-   
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 
 ## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) ISLC-Intelligent standby list cleaner
    ![image](https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e0d54515-7438-4e22-a4ba-6a4eb7f6ab51)

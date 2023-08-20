@@ -25,6 +25,8 @@
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 >
 > 
+   
+   
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
 

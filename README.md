@@ -99,10 +99,10 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
   <h2 align="center">            ~ 💖My optimization settings in general (windows and other)💖 ~ </h2>
   <div align="center">
  
-- ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! (nvidia filter lowers the fps too much and geforce experience is not to be installed!  
+- ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
   
 
-- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) [settings]. If you want a tutorial on what to put, let me know   
+- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) [settings]. If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
 
 
    <h2 align="center">            ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>

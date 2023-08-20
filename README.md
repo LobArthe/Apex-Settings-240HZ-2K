@@ -22,6 +22,7 @@
 
 
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
+
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
 >
 > 

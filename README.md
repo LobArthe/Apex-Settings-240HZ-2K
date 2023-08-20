@@ -91,7 +91,20 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
  7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" .
  8. Move [videoconfig.txt](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/videoconfig.txt) in it.
 
+
+
+
+
+
+  <h2 align="center">            ~ 💖My optimization settings in general (windows and other)💖 ~ </h2>
+  <div align="center">
  
+- ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! (nvidia filter lowers the fps too much and geforce experience is not to be installed!  
+  
+
+- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) [settings]. If you want a tutorial on what to put, let me know   
+
+
    <h2 align="center">            ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
   </div>
@@ -101,14 +114,8 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
  <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"><a href="https://discord.gg/Arthe#7178" target="_blank"><img src="https://img.shields.io/badge/-Arthe%237178-informational?&style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg"/></a><a href="https://www.twitch.tv/arthe__"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/twitch.svg"/></a>
 </br>
-    
-### ***<div align="center">💖My optimization settings in general (windows and other)💖</div>***  
-  
 
-- ⚡ I use [Discord OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! (nvidia filter lowers the fps too much and geforce experience is not to be installed!  
-  
-
-- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) [settings]. If you want a tutorial on what to put, let me know   
+     
     
    </br> 
 </div>
@@ -132,6 +139,3 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
  - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings
  - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking (latency , he is very complete on everything )
  - [ReviOS](https://discord.gg/962y4pU) - Best iso custom , install and play <3
-
-### My optimisation other
-- [Discord OpenAsar](https://openasar.dev/) Discord Optimization / Fast Startup / Small Size / Snappy Experience / [Github](https://github.com/GooseMod/OpenAsar) for skeptics 

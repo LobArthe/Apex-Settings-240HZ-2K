@@ -102,7 +102,7 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
 - ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
   
 
-- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) Preset > [Settings](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/12388347/ReShadePreset.zip)  If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
+- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
 
 [ReShadePreset.zip](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/12388347/ReShadePreset.zip)
 

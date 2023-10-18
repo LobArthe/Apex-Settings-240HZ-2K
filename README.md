@@ -41,17 +41,13 @@ https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4
          
 
 
-## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) ISLC-Intelligent standby list cleaner
-   ![image](https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e0d54515-7438-4e22-a4ba-6a4eb7f6ab51)
+## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) Amitxv-TimerResolution (better than ISLC)
+   
 
->Move ISLC to "C:\Program Files" or somewhere safe and change value ' free memory is lower than : '
- 
-| Ram | Size |
-| --- | --- |
-| `32 Go` | 16000 MB |
-| `16 Go` | 8000 MB |
-| `8 Go` | 4000 MB |
- 
+https://github.com/amitxv/TimerResolution
+ ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/41296ba4-e63f-47be-8b83-80a2bd36ecc7)
+![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/d960c87b-0815-48c9-84ba-bf8a0d08d977)
+
 ## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector
   
  [ReviOS Tweaks NVIDIA](https://revi.cc/docs/post-install#nvidia-control-panel-tweaks)

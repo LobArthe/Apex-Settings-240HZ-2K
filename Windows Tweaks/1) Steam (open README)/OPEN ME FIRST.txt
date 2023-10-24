@@ -1,9 +1,0 @@
-README
-
-copy and paste 'steam opti.bat' 
-
-C:\Program Files (x86)\Steam (Inside) 
-
-create a shortcut on the .bat and put it on the desktop
-
-well done,enjoy !

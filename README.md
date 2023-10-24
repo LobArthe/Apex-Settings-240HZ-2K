@@ -32,10 +32,11 @@
  
 
 
-https://github.com/LobArthe/Apex-Settings-240HZ/assets/119135536/e5bb6ecc-6d50-4e3b-a904-cfcda49177c6
 
 
- 
+https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df1-48a8-b2a1-1388c10074a8
+
+
  
  
          

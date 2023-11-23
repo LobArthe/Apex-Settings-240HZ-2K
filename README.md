@@ -76,7 +76,8 @@ https://github.com/amitxv/TimerResolution
 
 
 
-<b>1. [Download](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/13113244/Apex-my-settings-240FPS-2K.zip) and extract it.                                
+
+<b>1. [Download](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/13446557/Apex-my-settings-240FPS-2K.zip) and extract it.                                
  2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-Settings-240HZ/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
  4. Switch to the "General" Tab.                                                      
  5. Add the command in launch options ```-refresh 240 -dev  -fullscreen -high +exec autoexec.cfg ```

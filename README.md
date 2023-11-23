@@ -141,6 +141,6 @@ https://github.com/amitxv/TimerResolution
  ### Discord
  - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Adjustments and settings of all kinds ( minecraft, pc , obs , useful program , windows installation ect )  
  - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking (latency , he is very complete on everything )
- - [ReviOS](https://discord.gg/962y4pU) - Best iso custom , install and play <3
+ - [ReviOS](https://discord.gg/962y4pU) - Best custom os  , install and play <3
 
 

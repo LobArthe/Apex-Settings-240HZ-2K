@@ -117,6 +117,7 @@ https://github.com/amitxv/TimerResolution
 </br>
 
      
+
     
    </br> 
 </div>
@@ -135,8 +136,11 @@ https://github.com/amitxv/TimerResolution
  - [Kretz1xD](https://github.com/kretz1xD/Apex-Legends-Tweaks) - For best autoexec and videoconfig 
  - [GamingPcSetup](https://github.com/djdallmann/GamingPCSetup/)  optimizing your gaming PC (w10)
  - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - performance and input lag optimization
+ - [Amitxv](https://github.com/amitxv/PC-Tuning) - If you want to optimize a Windows system yourself, do it manually! ( Complete documentation, I strongly advise you to read it ! )
  
-  ### Discord
- - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Tweaks and settings
+ ### Discord
+ - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Adjustments and settings of all kinds ( minecraft, pc , obs , useful program , windows installation ect )  
  - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking (latency , he is very complete on everything )
  - [ReviOS](https://discord.gg/962y4pU) - Best iso custom , install and play <3
+
+

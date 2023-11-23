@@ -99,7 +99,7 @@ https://github.com/amitxv/TimerResolution
   <div align="center">
  
 - ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
-  
+- 📌 I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs! Open source, free, complete, light (portable version) and uninstalls the slightest residue! 
 
 - 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
 

@@ -18,7 +18,6 @@
 </h1>
 
 <h1 align="center"> 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 </h1>
-
 <p align="center">
    Hi! I'm Arthe, I'm #1 Loba fr pc MNK. I share my configs from several GitHub repositories as well as my optimization tips.  
    If you want screen settings or others, contact me in the contact section :)
@@ -26,7 +25,7 @@
 
 
 <div align="center">
-
+</div>
 
 ## ![les-fenetres (2)](https://user-images.githubusercontent.com/119135536/224665433-e0706b00-7eb3-434f-a2ed-64aa25680cfe.png)  Custom Os
 
@@ -52,9 +51,9 @@ https://github.com/user-attachments/assets/1e07bf2a-6216-4cd0-a185-01650589db43
 
 
 ## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) Amitxv-TimerResolution (better than ISLC)
-   
 
-https://github.com/amitxv/TimerResolution
+
+   **[Clock Interrupt Frequency (Timer Resolution)](https://github.com/valleyofdoom/PC-Tuning?tab=readme-ov-file#1148-clock-interrupt-frequency-timer-resolution)**
  ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/41296ba4-e63f-47be-8b83-80a2bd36ecc7)
 ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/d960c87b-0815-48c9-84ba-bf8a0d08d977)
 
@@ -115,6 +114,7 @@ The basic profile and the apex will be acquired! :white_check_mark:🚩
 <p align="center">
     <img src="https://img.shields.io/badge/-Right%20click%20on%20'properties'%20and%20read%20only%20at%20the%20bottom%20left!-important??style=for-the-badge-square">
 </p>
+<div align="center">
 
   [Download](https://github.com/user-attachments/files/17022318/Download.zip) and extract it.
 
@@ -130,27 +130,41 @@ The basic profile and the apex will be acquired! :white_check_mark:🚩
 ```sh
 -anticheat_settings=SettingsDX12.json +exec autoexec.cfg -exec autoexec.cfg -dev +fps_max +building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 -freq 240 .
 ```
+ </div>
+<div align="center">
   
-
- <p align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/Video-Config-blue?style=for-the-badge-square" alt="Video Config Badge" width="130">
-</p>
+  </p>
+<div align="center">
+  <p>Press <code>Win+R</code> while you are on your desktop.<br>
 
-  Press `Win+R` while you are on your desktop.
-  Paste this inside the Run box: `%USERPROFILE%\Saved Games\Respawn\Apex\local` .
- Move `VidéoConfig` in it.
+  Paste this inside the Run box: <code>%USERPROFILE%\Saved Games\Respawn\Apex\local</code>.</p>
+   <p>Move <strong>VidéoConfig</strong> into this folder.</p>
+</div>
+
+
+<h2 align="center">💖 My Optimization Settings in General (Windows and Other) 💖</h2>
+
+<div align="center">
+
+⚡ **Discord Optimization**  
+I use [OpenAsar](https://openasar.dev/) to optimize Discord, making it more responsive and improving performance.
+
+📌 **Program Uninstallation**  
+I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs.
+It's open-source, free, comprehensive, lightweight (with a portable version), and thoroughly cleans any leftover traces!
+
+🔭 **Colors and Sharpness**  
+For color and sharpness enhancements, I recommend [Reshade](https://reshade.me/).  
+If you'd like a tutorial on how to set it up, let me know! (Note: Nvidia filters reduce FPS significantly, and GeForce Experience is not recommended!)  
+> **Bonus**: Reshade still works with EA-APP!
+
+</div>
 
 
 
 
-  <h2 align="center">            💖My optimization settings in general (windows and other)💖 </h2>
-  <div align="center">
- 
- ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
- 📌 I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs! Open source, free, complete, light (portable version) and uninstalls the slightest residue! 
-
- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
-> Reshade still works under EA-APP!
 
 [ReShadePreset](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/12388347/ReShadePreset.zip)
 

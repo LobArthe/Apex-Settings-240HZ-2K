@@ -1,19 +1,19 @@
  <center>
-<h1 align="center">
+<h1 align="center">  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=00B1FF&center=true&width=435&lines=Version+2.0%3A+Final+Configuration" alt="Typing SVG" /></a>
 
-    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=300&color=FF7F00&center=true&width=435&lines=17%2F09%2F2024" alt="Typing SVG" /></a>
 
-   ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif) </h1>
+THIS IS NOT FINISHED, I will delete this message once it has been finalised.
 
+ ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif) </h1>
 <body>
-
-   
-
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div align="center">Hi ! Im Arthe , im #1 Loba fr pc MNK , I share my configs from several github as well as my optimization,If you want screen settings or other, contact me section :)
- 
+
+
 
 
 
@@ -21,23 +21,22 @@
 ## ![les-fenetres (2)](https://user-images.githubusercontent.com/119135536/224665433-e0706b00-7eb3-434f-a2ed-64aa25680cfe.png)  Custom Os
 
 
-> First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
+> First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability) I prefer ReviOS
 
+<a href="https://atlasos.net/path/to/file.html">Atlas-Os</a>
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/atlas-os/atlas&mode=light&style=horizontal)](https://github.com/atlas-os/atlas)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=OR%20💖&width=720&height=100)](https://github.com/Akshay090/svg-banners)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
->
-> 
-   
-   
+
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
  
 
 
 
 
-https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df1-48a8-b2a1-1388c10074a8
+https://github.com/user-attachments/assets/1e07bf2a-6216-4cd0-a185-01650589db43
 
-
- 
  
          
 
@@ -50,47 +49,90 @@ https://github.com/amitxv/TimerResolution
 ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/d960c87b-0815-48c9-84ba-bf8a0d08d977)
 
 ## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector
-  
- [ReviOS Tweaks NVIDIA](https://revi.cc/docs/post-install#nvidia-control-panel-tweaks)
 
- ![ReviOS](https://img.shields.io/badge/Nvidia-Inspector-success??style=social-square)
- > Open Nvidia inspector , 'profiles' on the top left and write  apex legends, click on import profile(s) (watch gif) and select the apexlegends.nip folder which is in my github , and press 'apply changes' enjoy :white_check_mark:
-<img src="https://user-images.githubusercontent.com/119135536/224672194-c6906b35-53c4-4e39-8623-e8fac54f6e52.png" width="373.5px" height="300px">
- 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1000&pause=5000&color=00D72B&center=true&multiline=true&random=false&width=435&lines=NVIDIA" alt="Typing SVG" /></a>
+> Parameters for NATIVE players, not suitable for custom resolution (unless you use [CRU](https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU)-custom utility resolution)  
+> The source if you wish (the screenshots will not be in the same language as you)
+
+
+ [ReviOS Tweaks NVIDIA](https://revi.cc/docs/post-install#nvidia-control-panel-tweaks)
+   <details>
+   <summary>Panel Nvidia</summary>
+
+   >
+   > ![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/d2191400-3508-4f5a-9c7d-e34524532482) 
+   > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/349e57a9-f69a-4f9e-a5b4-7ad001c7eba1)
+   > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/4ac3ae5b-a0c4-4a69-8b78-2886426d269f)
+   >
+   > 
+   > 
+
+   </details>
+
+<details>
+   <summary>Nvidia Inspector</summary>
+
+   >
+   > Download and extract on your desktop (télécharger et extraire sur votre bureau) 
+[Nvidia Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) 
+
+   First, download and extract [Profil Apex By Arthe.zip](https://github.com/user-attachments/files/17022107/Profil.Apex.By.Arthe.zip)
+
+  Put only PROFILE BASE PROFILE IN PROFILE BASE! click 'Apply changes' ![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/966099d6-1628-4b83-b880-982eb629629c)
+
+   🚩Enter the profile, wait for it to load, then simply click on ‘apply changes’ in the top right-hand corner.
+The basic profile and the apex will be acquired! :white_check_mark:🚩
+   > 
+   Thanks you ! if you have problem , use 'contact me' section (A video is coming soon if you don't understand!)
+</details>
+
+
+
+
+
  </br> 
 </div>
 <br>
 <div>
  
-  <h2 align="center">           📝  CFG Files  📝</h2>
+<h1 align="center">Installation Instructions</h1>
+
+<h3 align="center">📝 CFG Files 📝</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Important-blue??style=for-the-badge-square">
-</p><p align="center"><p align="center"><img src="https://img.shields.io/badge/-don't%20forget%20to%20set%20'read%20only'%20on%20videoconfig%20and%20the%20autoexec!!!!-red??style=for-the-badge-square">
+    <img src="https://img.shields.io/badge/-Important-blue?style=for-the-badge&logo=appveyor" alt="Important Badge">
 </p>
 
-
+<p align="center">
+    <img src="https://img.shields.io/badge/-don't%20forget%20to%20set%20'read%20only'%20on%20videoconfig%20and%20the%20autoexec!!!!-red?style=for-the-badge&logo=appveyor" alt="Reminder Badge">
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/-Right%20click%20on%20'properties'%20and%20read%20only%20at%20the%20bottom%20left!-important??style=for-the-badge-square">
 </p>
 
+-  [Download](https://github.com/user-attachments/files/17022318/Download.zip) and extract it.
 
+-  Move `AutoExec` to the game's directory cfg folder (Usually in `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`).
 
+-  Right-click on the game inside of Steam and go to `Properties`.
 
-<b>1. [Download](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/13446557/Apex-my-settings-240FPS-2K.zip) and extract it.                                
- 2. Move [autoexec.cfg](https://github.com/LobArthe/Apex-Settings-240HZ/blob/main/autoexec.cfg),  to the games directory cfg folder (Usually in C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg).                                                                                                                       3. Rightclick on the game inside of Steam and go to "Properties".                                       
- 4. Switch to the "General" Tab.                                                      
- 5. Add the command in launch options ```-dev  -fullscreen -high +exec autoexec.cfg ```
+-  Switch to the `General` Tab.
+
+                                          
+ -  Add the command in launch options 
+> If you are having problems with DirectX12, consider deleting the following command: -anticheat_settings=SettingsDX12.json
+```sh
+-anticheat_settings=SettingsDX12.json +exec autoexec.cfg -exec autoexec.cfg -dev +fps_max +building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 -freq 240 .
+```
   
-<p align="center">
-    <img src="https://img.shields.io/badge/Video-Config-blue??style=for-the-badge-square">
+
+ <p align="center">
+    <img src="https://img.shields.io/badge/Video-Config-blue?style=for-the-badge-square" alt="Video Config Badge" width="130">
 </p>
- 
-6. Press Win+R while you are on your desktop.
- 7. Paste this inside the Run box: "%USERPROFILE%\Saved Games\Respawn\Apex\local" .
- 8. Move [videoconfig.txt](https://github.com/LobArthe/Apex-my-config-240FPS-GSYNC/blob/main/videoconfig.txt) in it.
 
-
+-  Press `Win+R` while you are on your desktop.
+-  Paste this inside the Run box: `%USERPROFILE%\Saved Games\Respawn\Apex\local` .
+-  Move `VidéoConfig` in it.
 
 
 
@@ -102,6 +144,7 @@ https://github.com/amitxv/TimerResolution
 - 📌 I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs! Open source, free, complete, light (portable version) and uninstalls the slightest residue! 
 
 - 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
+> Reshade still works under EA-APP!
 
 [ReShadePreset](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/12388347/ReShadePreset.zip)
 
@@ -113,10 +156,11 @@ https://github.com/amitxv/TimerResolution
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
- <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"><a href="https://discord.gg/Arthe#7178" target="_blank"><img src="https://img.shields.io/badge/-Arthe%237178-informational?&style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg"/></a><a href="https://www.twitch.tv/arthe__"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/twitch.svg"/></a>
+    
+ <a href="https://twitter.com/remy_ftz" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"></a><a href="https://steamcommunity.com/profiles/76561198195683734/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg"/></a><a href="https://www.twitch.tv/arthe__"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/twitch.svg"/></a> <a href="https://"><img src="https://img.shields.io/badge/__arthe-Discord-7289DA" alt="_arthe - Discord"></a>
 </br>
 
-     
+
 
     
    </br> 
@@ -142,5 +186,6 @@ https://github.com/amitxv/TimerResolution
  - [Couleur Tweak Tips](https://github.com/couleur-tweak-tips) - Adjustments and settings of all kinds ( minecraft, pc , obs , useful program , windows installation ect )  
  - [Calypto](https://discord.com/invite/QvPubRq) - Tweaking (latency , he is very complete on everything )
  - [ReviOS](https://discord.gg/962y4pU) - Best custom os  , install and play <3
+
 
 

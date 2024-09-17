@@ -1,21 +1,31 @@
- <center>
-<h1 align="center">  
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=00B1FF&center=true&width=435&lines=Version+2.0%3A+Final+Configuration" alt="Typing SVG" /></a>
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=300&color=FF7F00&center=true&width=435&lines=17%2F09%2F2024" alt="Typing SVG" /></a>
+<p align="center">
+   <strong>⚠️ THIS IS NOT FINISHED</strong><br>
+   I will delete this message once it has been finalised.
+</p>
 
-THIS IS NOT FINISHED, I will delete this message once it has been finalised.
+<hr style="width:50%;border:1px solid gray;">
 
- ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://user-images.githubusercontent.com/119135536/224659162-63c3e291-3a5d-49cc-a1ab-9bc80677eec1.gif) </h1>
-<body>
-<body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<div align="center">Hi ! Im Arthe , im #1 Loba fr pc MNK , I share my configs from several github as well as my optimization,If you want screen settings or other, contact me section :)
+<h1 align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=00B1FF&center=true&width=435&lines=Version+2.0%3A+Final+Configuration" alt="Typing SVG" />
+   </a>
+   <br>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=300&color=FF7F00&center=true&width=435&lines=17%2F09%2F2024" alt="Typing SVG" />  
+   </a>
+</h1>
+
+<h1 align="center"> 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 </h1>
+
+<p align="center">
+   Hi! I'm Arthe, I'm #1 Loba fr pc MNK. I share my configs from several GitHub repositories as well as my optimization tips.  
+   If you want screen settings or others, contact me in the contact section :)
+</p>
 
 
-
-
+<div align="center">
 
 
 ## ![les-fenetres (2)](https://user-images.githubusercontent.com/119135536/224665433-e0706b00-7eb3-434f-a2ed-64aa25680cfe.png)  Custom Os
@@ -38,7 +48,7 @@ THIS IS NOT FINISHED, I will delete this message once it has been finalised.
 https://github.com/user-attachments/assets/1e07bf2a-6216-4cd0-a185-01650589db43
 
  
-         
+  
 
 
 ## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) Amitxv-TimerResolution (better than ISLC)
@@ -87,17 +97,13 @@ The basic profile and the apex will be acquired! :white_check_mark:🚩
 </details>
 
 
-
-
-
  </br> 
 </div>
 <br>
 <div>
- 
-<h1 align="center">Installation Instructions</h1>
+ <h1 align="center">📝 CFG Files 📝</h2>
 
-<h3 align="center">📝 CFG Files 📝</h2>
+<h3 align="center">Installation Instructions</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Important-blue?style=for-the-badge&logo=appveyor" alt="Important Badge">
@@ -110,16 +116,16 @@ The basic profile and the apex will be acquired! :white_check_mark:🚩
     <img src="https://img.shields.io/badge/-Right%20click%20on%20'properties'%20and%20read%20only%20at%20the%20bottom%20left!-important??style=for-the-badge-square">
 </p>
 
--  [Download](https://github.com/user-attachments/files/17022318/Download.zip) and extract it.
+  [Download](https://github.com/user-attachments/files/17022318/Download.zip) and extract it.
 
--  Move `AutoExec` to the game's directory cfg folder (Usually in `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`).
+  Move `AutoExec` to the game's directory cfg folder (Usually in `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`).
 
--  Right-click on the game inside of Steam and go to `Properties`.
+  Right-click on the game inside of Steam and go to `Properties`.
 
--  Switch to the `General` Tab.
+  Switch to the `General` Tab.
 
                                           
- -  Add the command in launch options 
+   Add the command in launch options 
 > If you are having problems with DirectX12, consider deleting the following command: -anticheat_settings=SettingsDX12.json
 ```sh
 -anticheat_settings=SettingsDX12.json +exec autoexec.cfg -exec autoexec.cfg -dev +fps_max +building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 -freq 240 .
@@ -130,20 +136,20 @@ The basic profile and the apex will be acquired! :white_check_mark:🚩
     <img src="https://img.shields.io/badge/Video-Config-blue?style=for-the-badge-square" alt="Video Config Badge" width="130">
 </p>
 
--  Press `Win+R` while you are on your desktop.
--  Paste this inside the Run box: `%USERPROFILE%\Saved Games\Respawn\Apex\local` .
--  Move `VidéoConfig` in it.
+  Press `Win+R` while you are on your desktop.
+  Paste this inside the Run box: `%USERPROFILE%\Saved Games\Respawn\Apex\local` .
+ Move `VidéoConfig` in it.
 
 
 
 
-  <h2 align="center">            ~ 💖My optimization settings in general (windows and other)💖 ~ </h2>
+  <h2 align="center">            💖My optimization settings in general (windows and other)💖 </h2>
   <div align="center">
  
-- ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
-- 📌 I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs! Open source, free, complete, light (portable version) and uninstalls the slightest residue! 
+ ⚡ I use discord Asar [OpenAsar](https://openasar.dev/) that to optimize it and make it more responsive and more ! 
+ 📌 I highly recommend [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) for uninstalling programs! Open source, free, complete, light (portable version) and uninstalls the slightest residue! 
 
-- 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
+ 🔭 For colors and sharpness, I recommend [Reshade](https://reshade.me/) If you want a tutorial on what to put, let me know (nvidia filter lowers the fps too much and geforce experience is not to be installed! 
 > Reshade still works under EA-APP!
 
 [ReShadePreset](https://github.com/LobArthe/Apex-Settings-240HZ-2K/files/12388347/ReShadePreset.zip)

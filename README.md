@@ -56,6 +56,7 @@ https://github.com/user-attachments/assets/1e07bf2a-6216-4cd0-a185-01650589db43
    **[Clock Interrupt Frequency (Timer Resolution)](https://github.com/valleyofdoom/PC-Tuning?tab=readme-ov-file#1148-clock-interrupt-frequency-timer-resolution)**
 
 [Tutorial](https://www.youtube.com/watch?v=AcCFZ8hhXi8)
+[Tutorial2](https://www.youtube.com/watch?v=uGMrZEpJlL8) the second seems ‘more’ appropriate. 
  ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/41296ba4-e63f-47be-8b83-80a2bd36ecc7)
 ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/d960c87b-0815-48c9-84ba-bf8a0d08d977)
 ## ![nvidia](https://user-images.githubusercontent.com/119135536/224661940-6ffef15c-c671-4e0f-bdda-9c7e14606c93.png) Panel & Inspector

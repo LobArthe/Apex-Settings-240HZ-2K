@@ -1,8 +1,7 @@
 <div align="center">
 
 <p align="center">
-   <strong>⚠️ THIS IS NOT FINISHED</strong><br>
-   I will delete this message once it has been finalised.
+   <strong>⚠️ OBSOLETE </strong><br>
 </p>
 
 <hr style="width:50%;border:1px solid gray;">
